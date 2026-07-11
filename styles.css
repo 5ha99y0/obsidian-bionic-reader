@@ -1,0 +1,10 @@
+/* BioRead Bionic Reader — Obsidian Plugin Styles */
+
+.bionic-reader-text b {
+    font-weight: 700;
+    opacity: 1;
+}
+
+.bionic-reader-text {
+    line-height: inherit;
+}
