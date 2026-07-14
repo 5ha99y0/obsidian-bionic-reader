@@ -5,7 +5,6 @@
   "minAppVersion": "1.0.0",
   "description": "ADHD accessibility plugin that applies Bionic Reading formatting to notes in Preview/Reading mode on the fly.",
   "author": "ADHDTools",
-  "authorUrl": "https://github.com/ADHDTools",
-  "fundingUrl": "https://bioread.app",
+  "authorUrl": "https://github.com/5ha99y0",
   "isDesktopOnly": false
 }
