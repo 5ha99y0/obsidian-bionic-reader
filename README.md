@@ -1,4 +1,4 @@
-# Bionic Reader for Obsidian
+# BioRead
 
 An ADHD accessibility plugin that applies Bionic Reading formatting to notes in Obsidian's Reading/Preview mode.
 
@@ -13,12 +13,7 @@ An ADHD accessibility plugin that applies Bionic Reading formatting to notes in 
 1. Download `main.js`, `manifest.json`, and `styles.css` from the latest release.
 2. Create a folder called `obsidian-bionic-reader` inside your vault's `.obsidian/plugins/` directory.
 3. Copy the downloaded files into that folder.
-4. Open Obsidian Settings → Community Plugins → Enable "Bionic Reader for Obsidian".
-
-### From Community Plugins (coming soon)
-1. Open Obsidian Settings → Community Plugins → Browse.
-2. Search for "Bionic Reader".
-3. Click Install, then Enable.
+4. Open Obsidian Settings → Community Plugins → Enable "BioRead".
 
 ## How It Works
 The plugin hooks into Obsidian's Markdown post-processor pipeline. When you switch to Reading mode, it processes each text node and bolds the first portion of every word — creating visual fixation anchors that guide your eyes and improve reading speed.
