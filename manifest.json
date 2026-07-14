@@ -1,7 +1,7 @@
 {
   "id": "bioread",
   "name": "BioRead",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "description": "ADHD accessibility plugin that applies Bionic Reading formatting to notes in Preview/Reading mode on the fly.",
   "author": "ADHDTools",
