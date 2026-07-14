@@ -1,10 +1,11 @@
 {
   "id": "bioread",
-  "name": "Bionic Reader for Obsidian",
+  "name": "BioRead",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "ADHD accessibility plugin that applies Bionic Reading formatting to notes in Preview/Reading mode on the fly.",
   "author": "ADHDTools",
   "authorUrl": "https://github.com/ADHDTools",
+  "fundingUrl": "https://bioread.app",
   "isDesktopOnly": false
 }
